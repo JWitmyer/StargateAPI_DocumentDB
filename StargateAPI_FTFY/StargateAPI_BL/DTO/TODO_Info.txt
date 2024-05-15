@@ -1,0 +1,1 @@
+Long term I think it would be best to have detached DTO objects. This would be implemented with automapper or something similar -JSW

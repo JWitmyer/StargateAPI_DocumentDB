@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StargateAPI_FTFY", "StargateAPI_FTFY\StargateAPI_FTFY.csproj", "{2BB54596-8D3A-4CA1-8C07-5E9DC18E3159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StargateAPI_BL", "StargateAPI_BL\StargateAPI_BL.csproj", "{ED6AF4EC-68D4-4D09-A2D7-778B244B9CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StargateAPI.Tests", "StargateAPI.Tests\StargateAPI.Tests.csproj", "{9497512B-3DA8-4553-AAA9-158FE951C495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StargateAPI_DAL", "StargateAPI_DAL\StargateAPI_DAL.csproj", "{CA66A7CE-F136-47C3-945D-CBBEBB724261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB54596-8D3A-4CA1-8C07-5E9DC18E3159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB54596-8D3A-4CA1-8C07-5E9DC18E3159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB54596-8D3A-4CA1-8C07-5E9DC18E3159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB54596-8D3A-4CA1-8C07-5E9DC18E3159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6AF4EC-68D4-4D09-A2D7-778B244B9CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6AF4EC-68D4-4D09-A2D7-778B244B9CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6AF4EC-68D4-4D09-A2D7-778B244B9CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6AF4EC-68D4-4D09-A2D7-778B244B9CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9497512B-3DA8-4553-AAA9-158FE951C495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9497512B-3DA8-4553-AAA9-158FE951C495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9497512B-3DA8-4553-AAA9-158FE951C495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9497512B-3DA8-4553-AAA9-158FE951C495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA66A7CE-F136-47C3-945D-CBBEBB724261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA66A7CE-F136-47C3-945D-CBBEBB724261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA66A7CE-F136-47C3-945D-CBBEBB724261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA66A7CE-F136-47C3-945D-CBBEBB724261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C9FDC92-D7BB-48CF-A609-8B7EA92A8884}
+	EndGlobalSection
+EndGlobal
